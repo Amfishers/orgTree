@@ -1,7 +1,7 @@
 # orgTree
 An organizational framework selector.
 
->> 基于Jquery编写的插件
+> 基于Jquery编写的插件
 
 调用方法：
 
@@ -12,4 +12,4 @@ An organizational framework selector.
 	});
 
 
-####组件持续优化中，欢迎关注: )
+### 组件持续优化中，欢迎关注: )
