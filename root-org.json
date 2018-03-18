@@ -35,7 +35,7 @@
                             "children": [
                                 {
                                     "id": "111221",
-                                    "deptname": "重构分会",
+                                    "deptname": "UI重构分会",
                                     "children": []
                                 },
                                 {
@@ -163,7 +163,7 @@
             "children": [
                 {
                     "id": "3331",
-                    "deptname": "重构组",
+                    "deptname": "UI重构组",
                     "children": []
                 },
                 {
@@ -172,17 +172,17 @@
                     "children": [
                         {
                             "id": "33321",
-                            "deptname": "重构一组",
+                            "deptname": "UI重构一组",
                             "children": []
                         },
                         {
                             "id": "33322",
-                            "deptname": "重构二组",
+                            "deptname": "UI重构二组",
                             "children": []
                         },
                         {
                             "id": "33323",
-                            "deptname": "重构三组",
+                            "deptname": "UI重构三组",
                             "children": []
                         }
                     ]
