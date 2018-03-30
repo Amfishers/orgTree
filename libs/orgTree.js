@@ -1,6 +1,6 @@
 /**
  * plugin: orgTree
- * author: jionchen
+ * author: joinFisher
  * require: jquery.js  ztree.js 
  */
 /*! layer-v3.1.1 Web弹层组件 MIT License  http://layer.layui.com/  By 贤心 */
@@ -177,9 +177,9 @@ function(a,b){var c=i.getRoot(a);if(c.curEditNode===b)c.curEditNode=null;K&&K.ap
 return!c.curEditNode&&(U?U.apply(e,arguments):!0)}})(jQuery);
 /**
  * theme: 部门架构选择器组件
- * author: jionfisher
+ * author: joinFisher
  * date: 2018-02-27
- * versions: 1.0.0
+ * versions: 0.0.1
  *
  * 后期插件将更新支持： 
  * 1、只开启组织
